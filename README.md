@@ -1,14 +1,14 @@
 # 💝 Valentine's Day Website 2026 💝
 
-[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
-[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
+[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2026?style=social)](https://github.com/End2EndAI/valentine-website-2026/stargazers)
+[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2026?style=social)](https://github.com/End2EndAI/valentine-website-2026/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025)](https://twitter.com/intent/tweet?text=%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025%0A%23ValentinesDay2025%20%23WebDev%20%23GitHub%20%23Love)
+[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2026)](https://twitter.com/intent/tweet?text=%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2026%0A%23ValentinesDay2026%20%23WebDev%20%23GitHub%20%23Love)
 
 A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2026! 💝
 Follow below the tutorial how to custom the website and get your custom URL and access your website on the internet from everywhere !
 
-🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
+🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2026)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
 
 ## 🌟 Share The Love
 
@@ -28,7 +28,7 @@ If you liked it, please :
 ## 🚀 Quick Start Guide
 
 ### 1. Get Your Own Copy
-1. Click the "Fork" button at the top right of this page or [click here](https://github.com/End2EndAI/valentine-website-2025/fork)
+1. Click the "Fork" button at the top right of this page or [click here](https://github.com/End2EndAI/valentine-website-2026/fork)
 2. Wait a few seconds while GitHub creates your copy
 3. You now have your own version of the code!
 
@@ -170,7 +170,7 @@ music: {
 4. Choose your GitHub repository
 5. Click "Deploy site"
 6. Once deployed, click "Domain settings"
-7. Choose a custom domain (e.g., `my-valentine-2025.netlify.app`)
+7. Choose a custom domain (e.g., `my-valentine-2026.netlify.app`)
 
 ## 💡 Tips
 - Test the website before sending it to your Valentine
