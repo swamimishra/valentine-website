@@ -14,26 +14,26 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓', '🌹', '💋', '🔥'],  // Heart emojis + Passionate ones
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['\u{1F9F6}', '\u{1F496}', '\u{1F49D}', '\u{1F497}', '\u{1F493}', '\u{1F98B}', '\u{1F9E3}', '\u{1F48E}'],  // Heart Hands + Lover Butterflies + Red Scarf + Bejeweled
+        bears: ['\u{1F431}', '\u{1F43B}']                       // Cats (Meredith/Olivia/Benji)
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            text: "It's a love story, baby... just say yes?",           // Love Story lyrics
+            yesBtn: "Yes!",                                            // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't wanna live forever without you! \u{1F494}" // I Don't Wanna Live Forever
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "Do you love me to the Moon and to Saturn?",         // Seven lyrics
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next \u{2764}\u{FE00}"                           // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? \u{1F339}", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,26 +42,26 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "I'm enchanted to meet you! \u{2728}\u{1F98B}",        // Enchanted
+        high: "Wildest dreams! \u{1F9E3}\u{1F431}",                      // Wildest Dreams
+        normal: "You're a mastermind! \u{1F48E}"                  // Mastermind
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "You belong with me! \u{1F496}\u{1F389}\u{1F98B}",
+        message: "And I know I place it then you took it with you... (My Heart)!",
+        emojis: "\u{1F98B}\u{1F9E3}\u{1F431}\u{1F9F6}\u{1F48E}\u{1F496}"  // Taylor Swift symbols
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ff0844",      // Vibrant Red
-        backgroundEnd: "#ffb199",        // Soft Peach
-        buttonBackground: "#d90429",     // Deep Crimson
-        buttonHover: "#ef233c",          // Lighter Red
-        textColor: "#ffffff"             // White text for better contrast on red
+        backgroundStart: "#ffb6c1",      // Pastel Pink (Lover)
+        backgroundEnd: "#87ceeb",        // Sky Blue (Lover)
+        buttonBackground: "#ff69b4",     // Hot Pink
+        buttonHover: "#ff1493",          // Deep Pink
+        textColor: "#4b0082"             // Indigo/Deep Purple
     },
 
     // Animation settings
